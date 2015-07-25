@@ -1,0 +1,20 @@
+# Build settings
+markdown: kramdown
+
+# Excludes
+exclude:
+  - LICENSE
+  - Notes.md
+  - Makefile
+
+# Site settings
+title: Jesse Windle
+# email: jbw44@stat.duke.edu
+# description: > # this means to ignore newlines until "baseurl:"
+#  Jesse Windle Blah
+# baseurl: https://stat.duke.edu/~jbw44
+# url: https://stat.duke.edu/~jbw44
+# twitter_username: 
+github_username:  jwindle
+
+
