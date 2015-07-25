@@ -29,5 +29,5 @@ title: Research
 
 - [Efficient Data Augmentation in Dynamic Models for Binary and Count Data](http://arxiv.org/abs/1308.0774) with Carlos M. Carvalho, James G. Scott, and Liang Sun.  2013.
 
-- [Old School Population Genetics for Statisticians](Papers/tech-report.pdf), 2015.
+
 
