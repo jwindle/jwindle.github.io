@@ -5,6 +5,10 @@ author: Jesse Windle
 usemathjax: true
 ---
 
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 
 At the startup I used to worked for, Hi Fidelity Genetics, I helped
 invent a [patented](https://patents.google.com/patent/US11293910B2/)
