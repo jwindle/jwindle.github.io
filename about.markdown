@@ -5,8 +5,6 @@ permalink: /about/
 ---
 
 
-![](jw.jpg)
-
 Hi!  I am a Data Scientist and Engineer based out of Kansas City.
 Previously, I was Director of Data Science at [Hi Fidelity Genetics /
 Technologies](https://www.hifidelitytechnologies.com/), a startup that
