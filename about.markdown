@@ -5,12 +5,13 @@ permalink: /about/
 ---
 
 
+![](jw.jpg)
+
 Hi!  I am a Data Scientist and Engineer based out of Kansas City.
 Previously, I was Director of Data Science at [Hi Fidelity Genetics /
 Technologies](https://www.hifidelitytechnologies.com/), a startup that
 aimed to improve maize genetics through root system architecture
-characteristics.  Below is a quick summary of my
-[resume](/pdfs/jesse-windle-resume-2301-v4.pdf).
+characteristics.  Below is a quick summary of my resume.
 
 
 ### Research and Professional Experience
@@ -31,8 +32,10 @@ characteristics.  Below is a quick summary of my
 As the first employee at Hi Fidelity Technologies I wore a lot of
 different hats.  My experiences include:
 		
-- [Inventing](https://patents.google.com/patent/US11293910B2/) a device to measure a plant’s root system in the field.
-- Using our device's data to [model](../2023/07/26/rootmodel.html) a root growth.
+- [Inventing](https://patents.google.com/patent/US11293910B2/) a
+  device to measure a plant’s root system in the field.
+- Using our device's data to [model](../2023/07/26/rootmodel.html)
+  root growth.
 - Using DNA and RNA data to predict plant performance.
 - Building the data engineering and data science platforms.
 - Building out our entire team.
