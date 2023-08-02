@@ -56,15 +56,15 @@ In the picture above we have drawn a corn plant inside of the device.
 The system works with both monocots (like corn, wheat, and rice) and
 dicots (like soybean and cotton).  For the purposes of modeling
 though, we will restrict our attention to monocots.  In the black and
-white image below, we see a monocot (young wheat) on the right and a
+white image below, we see a monocot (young wheat) on the left and a
 dicot (young lupin) on the right.  Dicots have a tap root off of which
 roots grow.  In contrast, monocots have crown roots that emerge at the
 stem of the plant near the soil-surface interface effectively giving
-us an origin for root emergence, which is useful for modeling.  On the
-right we see a cartoon of monocot root growth.  RootTracker can detect
-both crown roots and lateral roots.  For the sake of simplicity, we
-just assume that all roots detected are crown roots.  The images below
-are reproduced from [Plants in
+us an origin for root emergence, which is useful for modeling.  In the
+color image, we see a cartoon of monocot root growth.  RootTracker can
+detect both crown roots and lateral roots.  For the sake of
+simplicity, we just assume that all roots detected are crown roots.
+The images below are reproduced from [Plants in
 Action](http://plantsinaction.science.uq.edu.au), published by the
 Australian Society of Plant Scientists.
 
