@@ -35,7 +35,7 @@ different hats.  My experiences include:
 - Using our device's data to [model](../2023/07/26/rootmodel.html)
   root growth.
 - Using DNA and RNA data to predict plant performance.
-- Building the data engineering and data science platforms.
+- Building the [data engineering](../2023/08/09/data-engineering.html) platform.
 - Building out our entire team.
 		
 		
