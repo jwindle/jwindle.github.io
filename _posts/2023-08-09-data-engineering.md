@@ -27,7 +27,7 @@ read more about the set up in our paper ["Capturing in-field root
 system dynamics with
 RootTracker"](https://academic.oup.com/plphys/article/187/3/1117/6328791).)
 
-![](roottracker.jpg)
+![](../../07/images/roottracker.jpg)
 
 The devices used a radio to send data to a base station.  This data was
 aggregated across several devices, which was then uploaded as a single
