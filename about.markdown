@@ -12,8 +12,8 @@ systems' of thousands of plants simultaneously and, for the first
 time, enabled the optimization of root systems for improved nutrient
 uptake, stress tolerance, and reduced greenhouse gas emissions.  
 
-Below you will find a brief recapitulation of my skills and work
-experience.  You can also find me on
+Below you will find an overview of my skills and work experience.  You
+can also find me on
 [LinkedIn](https://www.linkedin.com/in/jesse-windle-19802836).
 
 
@@ -80,7 +80,7 @@ conveying results in high-level, graphical summaries.
     App assisted with data exploration, visualization, and analysis.
     (You can read more [here](../2023/08/09/data-engineering.html).)
 
-- **Analyzed all internal and client trials**
+- **Produced results for all internal and client trials**
 
 	HFT conducted experiments for itself and others, including ag
     majors BASF, Bayer, and Corteva.  I was responsible for analyzing
