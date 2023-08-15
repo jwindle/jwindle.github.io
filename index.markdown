@@ -10,7 +10,7 @@ for managing and interfacing with data.  (See his online resume
 [here](/about/) or on
 [LinkedIn](https://www.linkedin.com/in/jesse-windle-19802836).)
 
-![](jesse-windle-headshot-cropped-small.jpg){:style="width: 70%; display:block; margin-left:auto; margin-right:auto"}
+![](../about/jesse-windle-headshot-cropped-small.jpg){:style="width: 70%; display:block; margin-left:auto; margin-right:auto"}
 
 As the first employee of [Hi Fidelity Technologies
 ](https://www.hifidelitytechnologies.com/), an agtech startup, he
