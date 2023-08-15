@@ -25,10 +25,10 @@ million in non-dilutive funding.
 Jesse received his Ph.D. from the University of Texas at Austin in
 Computational and Applied Mathematics and was a Post Doctoral
 Researcher and Visiting Assistant Professor in Statistics at Duke
-University before joining [Hi Fidelity Technologies
-](https://www.hifidelitytechnologies.com/).
+University before joining [Hi Fidelity
+Technologies](https://www.hifidelitytechnologies.com/).
 
-You can learn more about Jesse [here](/about/) on
+You can learn more about Jesse [here](/about/) or on
 [LinkedIn](https://www.linkedin.com/in/jesse-windle-19802836).  Below
 you will find some posts detailing some of Jesse's work.
 
