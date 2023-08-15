@@ -52,7 +52,7 @@ conveying results in high-level, graphical summaries.
     challenge, which has limited the use of root characteristics as a
     target of crop improvement.  To overcome this problem, I invented
     a device that uses capacitance touch sensors to measure root
-    sytems at scale.  This pioneering device enabled the optimization
+    systems at scale.  This pioneering device enabled the optimization
     of root systems for improved nutrient uptake, stress tolerance,
     and greenhouse gas reduction.  (You can read the patent
     [here](https://patents.google.com/patent/US11293910B2/).)
