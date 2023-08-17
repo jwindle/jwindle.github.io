@@ -5,7 +5,7 @@ layout: home
 Jesse Windle, Ph.D. is a [Data
 Scientist](https://www.linkedin.com/in/jesse-windle-19802836).  He
 specializes in using statistical models to extract insights from data
-or to make predictions about future outcomes.  He also builds systems
+and make predictions about future outcomes.  He also builds systems
 for managing and interfacing with data.  (See his online resume
 [here](/about/) or on
 [LinkedIn](https://www.linkedin.com/in/jesse-windle-19802836).)
