@@ -4,13 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Previously, I was Director of Data Science at [Hi Fidelity
-Technologies (HFT)](https://www.hifidelitytechnologies.com/), where I
-helped invent a novel root sensing device, called RootTracker, and
-build out its data platform.  RootTracker could monitor the root
-systems' of thousands of plants simultaneously and, for the first
-time, enabled the optimization of root systems for improved nutrient
+Previously, I was Director of Data Science at the pioneering startup
+[Hi Fidelity Technologies
+(HFT)](https://www.hifidelitytechnologies.com/), where I helped invent
+a novel root sensing device, called RootTracker, and build its data
+platform.  RootTracker could monitor the root systems' of thousands of
+plants simultaneously and, for the first time, enabled the
+optimization of root systems for improved nutrient
 uptake, stress tolerance, and reduced greenhouse gas emissions.  
+
+Now, I am looking to apply all that I have learned in a new endeavor.
+I am especially interested in an early stage startup or project that
+is looking to operationalize a data thesis --- from building the data
+engineering system to the data science pipeline.  I am also interested
+in joining a data science team working on a complex, big data problem.
 
 Below you will find an overview of my skills and work experience.  You
 can also find me on
@@ -52,23 +59,24 @@ conveying results in high-level, graphical summaries.
     challenge, which has limited the use of root characteristics as a
     target of crop improvement.  To overcome this problem, I invented
     a device that uses capacitance touch sensors to measure root
-    systems at scale.  This pioneering device enabled the optimization
-    of root systems for improved nutrient uptake, stress tolerance,
-    and greenhouse gas reduction.  (You can read the patent
+    systems at scale.  This novel device enabled the optimization of
+    root systems for improved nutrient uptake, stress tolerance, and
+    greenhouse gas reduction.  (You can read the patent
     [here](https://patents.google.com/patent/US11293910B2/).)
   
-- **[Recapitulated](../2023/07/26/rootmodel.html) root growth using
+- **[Inferred root growth](../2023/07/26/rootmodel.html) using
   RootTraker data**
 
 	For a species like corn, one can think of a root growing as a
     random walk.  A root starts from where the stem touches the soil
     and then meanders outwards and down.  RootTracker could tell us
     one point along this random walk, which is very limited
-    information as to the appearance of the entire root.  However,
-    using a highly structured model I recreated realistic
-    recapitulations of root growth from these data that captured the
-    temporal and spatial patterns of the underlying ground truth.
-    (You can read more [here](../2023/07/26/rootmodel.html).)
+    information as to the appearance of the entire root.  Using
+    statistical modeling I was able to overcome this limitation to
+    recreate realistic recapitulations of root growth from these data
+    that captured the temporal and spatial patterns of the underlying
+    ground truth.  (You can read more
+    [here](../2023/07/26/rootmodel.html).)
 
 - **Built the RootTracker [data platform](../2023/08/09/data-engineering.html)**
   
@@ -77,8 +85,8 @@ conveying results in high-level, graphical summaries.
     helped build a system to capture these sensor data and track our
     experiments.  A Flask-based API provided access to the data, which
     was modeled using a mixture of SQL and Apache Iceberg.  A Voila
-    App assisted with data exploration, visualization, and analysis.
-    (You can read more [here](../2023/08/09/data-engineering.html).)
+    App enabled data exploration, visualization, and analysis.  (You
+    can read more [here](../2023/08/09/data-engineering.html).)
 
 - **Produced results for all internal and client trials**
 
@@ -87,8 +95,10 @@ conveying results in high-level, graphical summaries.
     and communicating the subsequent results.  For both internal and
     external projects, this involved establishing the scientific
     questions of interest, data exploration and analysis, and then
-    communicating results, usually in the form of a presentation or
-    report.
+    communicating results as a presentation or report.  In one of our
+    most exciting studies, I was able to show that the amount of roots
+    present in the root crown was inversely related to nitrous oxide
+    emissions, a major greenhouse gas emitted by row crop agriculture.
 
 - **Built out the team and company**
 
