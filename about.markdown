@@ -65,7 +65,7 @@ conveying results in high-level, graphical summaries.
     [here](https://patents.google.com/patent/US11293910B2/).)
   
 - **[Inferred root growth](../2023/07/26/rootmodel.html) using
-  RootTraker data**
+  RootTracker data**
 
 	For a species like corn, one can think of a root growing as a
     random walk.  A root starts from where the stem touches the soil
