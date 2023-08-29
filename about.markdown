@@ -47,7 +47,8 @@ Postgres, Apache Iceberg.
 **Scientific Communication**: Reducing complex data to key metrics;
 conveying results in high-level, graphical summaries.
 
-**Quantitative Genetics**: Genomic prediction with DNA and RNA data.
+**Quantitative Genetics**: Genomic prediction with DNA and RNA data,
+Tassel, BWA, and R.
 
 
 ## Selected professional experiences
@@ -99,6 +100,12 @@ conveying results in high-level, graphical summaries.
     most exciting studies, I was able to show that the amount of roots
     present in the root crown was inversely related to nitrous oxide
     emissions, a major greenhouse gas emitted by row crop agriculture.
+	
+- **Predicted performance of maize hybrids**
+
+	HFT had a proprietary breeding program.  I used DNA data to
+    predict the performance of untested varieties using measurements
+    from related plants.
 
 - **Built out the team and company**
 
