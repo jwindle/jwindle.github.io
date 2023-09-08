@@ -14,10 +14,9 @@ optimization of root systems for improved nutrient
 uptake, stress tolerance, and reduced greenhouse gas emissions.  
 
 Now, I am looking to apply all that I have learned in a new endeavor.
-I am especially interested in an early stage startup or project that
-is looking to operationalize a data thesis --- from building the data
-engineering system to the data science pipeline.  I am also interested
-in joining a data science team working on a complex, big data problem.
+I am especially interested in an early stage project that is looking
+to operationalize a data thesis.  I am also interested in joining a
+data science team working on a complex, big data problem.
 
 Below you will find an overview of my skills and work experience.  You
 can also find me on
