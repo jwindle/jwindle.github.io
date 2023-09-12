@@ -88,7 +88,7 @@ Tassel, BWA, and R.
     App enabled data exploration, visualization, and analysis.  (You
     can read more [here](../2023/08/09/data-engineering.html).)
 
-- **Produced results for all internal and client trials**
+- **Produced [results](../2023/09/12/rtda.html) for all internal and client trials**
 
 	HFT conducted experiments for itself and others, including ag
     majors BASF, Bayer, and Corteva.  I was responsible for analyzing
