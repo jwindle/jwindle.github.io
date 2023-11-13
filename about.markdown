@@ -8,15 +8,15 @@ Previously, I was Director of Data Science at the pioneering startup
 [Hi Fidelity Technologies
 (HFT)](https://www.hifidelitytechnologies.com/), where I helped invent
 a novel root sensing device, called RootTracker, and build its data
-platform.  RootTracker could monitor the root systems' of thousands of
-plants simultaneously and, for the first time, enabled the
-optimization of root systems for improved nutrient
+management and analysis platform.  RootTracker could monitor the root
+systems' of thousands of plants simultaneously and, for the first
+time, enabled the optimization of root systems for improved nutrient
 uptake, stress tolerance, and reduced greenhouse gas emissions.  
 
-Now, I am looking to apply all that I have learned in a new endeavor.
-I am especially interested in an early stage project that is looking
-to operationalize a data thesis.  I am also interested in joining a
-data science team working on a complex, big data problem.
+I am currently engaged as a contractor into 2024.  Beyond that, I am
+interested in an early stage project that is looking to operationalize
+a data thesis.  I am also interested in joining a data science team
+working on a complex, big data problem.
 
 Below you will find an overview of my skills and work experience.  You
 can also find me on
@@ -35,19 +35,18 @@ can also find me on
 
 
 ## Selected skills
-		
-**Data Science**: Non-parametric models (i.e. neural networks, random
-forests, Gaussian processes), structured Bayesian modeling, standard
-tools like linear and mixed models, R, and Python.
-		
-**Systems Engineering and Development**: RESTful Flask-based API,
-Postgres, Apache Iceberg.
-		
+
+**Methods**: Bayesian analysis, neural networks, random forests, kernel machines, linear and mixed models, hypothesis testing, time series
+
+**Software**: Python, R, C++, SQL, Iceberg, Bash / Linux, AWS, Git
+
+(Common Python & R packages: numpy, pandas, scipy, sklearn,
+statsmodels, pytorch, jax, sqlalchemy, pymongo, flask, pytest; rstan,
+tidyverse [e.g. ggplot2, dplyr, readr], lme4, kernlab, spaMM,
+quantreg, glmnet, bayeslogit, randomForest, etc., etc., etc.)
+
 **Scientific Communication**: Reducing complex data to key metrics;
 conveying results in high-level, graphical summaries.
-
-**Quantitative Genetics**: Genomic prediction with DNA and RNA data,
-Tassel, BWA, and R.
 
 
 ## Selected professional experiences
@@ -78,6 +77,17 @@ Tassel, BWA, and R.
     ground truth.  (You can read more
     [here](../2023/07/26/rootmodel.html).)
 
+- **[Learned root
+  phenotypes](../2023/11/01/ai-for-root-phenotyping.html)** using AI
+
+  One of the challenges in developing our technology was identifying
+  ground truth.  I developed a novel approach using AI to extract root
+  phenotypes.  It relied on conducting experiments where the outcome
+  was effectively "plant" or "no plant".  Using a neural network
+  trained on that outcome, it is possible to extract an intermediate
+  layer that corresponds to root detections.  (You can read more
+  [here](../2023/11/01/ai-for-root-phenotyping.html).)
+
 - **Built the RootTracker [data platform](../2023/08/09/data-engineering.html)**
   
     For a single device, RootTracker captured data every 5 minutes.
@@ -99,6 +109,7 @@ Tassel, BWA, and R.
     most exciting studies, I was able to show that the amount of roots
     present in the root crown was inversely related to nitrous oxide
     emissions, a major greenhouse gas emitted by row crop agriculture.
+    (You can read more [here](../2023/09/12/rtda.html).)
 	
 - **Predicted performance of maize hybrids**
 
